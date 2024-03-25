@@ -15,6 +15,9 @@ void input()
 int penjumlahan(int bill_1, int bill_2) {
     return bill_1 + bill_2;
 }
+int pengurangan(int bill_1, int bill_2) {
+    return bill_1 - bill_2;
+}
 
 int main()
 {
